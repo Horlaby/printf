@@ -13,5 +13,5 @@ We choose to add %x ,%X, %b, %o, %u, %r, %R, and %p formatting by relying on the
 
 # Authors
 
-Yushau Babatunde and Isah Medinat.
+Yushau Babatunde and Isah Medinat._
 
