@@ -3,7 +3,7 @@
 /**
  * get_specifier - finds the format function
  * @s: string of the format
- * Return: the number of bytes printed
+ * Return: the number of bytes the printed
  */
 
 int (*get_specifier(char *s))(va_list ap, params_t *params)
@@ -45,7 +45,7 @@ int (*get_specifier(char *s))(va_list ap, params_t *params)
  * @s: string of the format
  * @ap: argument pointer
  * @params: the parameters struct
- * Return: the number of bytes printed
+ * Return: the number of the bytes printed
  */
 
 int get_print_func(char *s, va_list ap, params_t *params)
